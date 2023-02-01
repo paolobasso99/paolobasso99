@@ -12,4 +12,4 @@ Feel free to contact me on [Linkedin](https://www.linkedin.com/in/paolobasso99) 
 - Master's degree in Computer Science and Engineering at Politecnico di Milano (expected graduation year 2024)
 - Bachelor's degree in Management Engineering at the University of Bologna (graduation year 2021)
 
-[![Paolo's Github stats](https://github-readme-stats.vercel.app/api?username=paolobasso99&show_icons=true)](https://github.com/paolobasso99)
+[![Paolo's Github stats](https://github-readme-stats.vercel.app/api?username=paolobasso99&show_icons=true&theme=dark)](https://github.com/paolobasso99)
