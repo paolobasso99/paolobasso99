@@ -4,7 +4,7 @@
 
 I'm an Italian student, currently attending a Master's Degree in Computer Science and Engineering at Politecnico di Milano.
 
-I'm passionate about machine learning, web development and self hosting!
+I'm passionate about machine learning, software engineering and self hosting!
 
 Feel free to contact me on [Linkedin](https://www.linkedin.com/in/paolobasso99) :rocket:.
 
