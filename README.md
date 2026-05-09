@@ -13,7 +13,7 @@ Feel free to contact me on [Linkedin](https://www.linkedin.com/in/paolobasso99) 
 - Sep 2023 – Present: Software Engineer at [Bending Spoons](https://www.bendingspoons.com/).
 
 ## 🎓 Education
-- Sep 2021 - Mar 2024: Master's degree in Computer Science and Engineering at [Politecnico di Milano](https://www.polimi.it/). [See my notes here](https://bookstack.bassopaolo.com).
+- Sep 2021 - Mar 2024: Master's degree in Computer Science and Engineering at [Politecnico di Milano](https://www.polimi.it/). [See my course notes here](https://bookstack.bassopaolo.com).
 - Sep 2018 - Jul 2021: Bachelor's degree in Management Engineering at the [University of Bologna](https://www.unibo.it/).
 
 [![Paolo's Github stats](https://github-readme-stats.vercel.app/api?username=paolobasso99&show_icons=true&theme=dark)](https://github.com/paolobasso99)
